@@ -35,4 +35,9 @@ Make sure you have Python installed, then install the required packages:
 pip install -r requirements.txt
 
 streamlit run app.py
----
+```
+
+![image](https://github.com/user-attachments/assets/93c07cd7-e298-4f32-a9c5-b0fab058fcfa)
+![image](https://github.com/user-attachments/assets/c57988ae-3b1f-4f77-be89-27ed87209b8d)
+
+
